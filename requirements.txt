@@ -1,0 +1,7 @@
+PySide6
+Pillow
+numpy
+scikit-learn
+torch
+torchvision
+joblib
